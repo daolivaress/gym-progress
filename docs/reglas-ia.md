@@ -6,8 +6,8 @@ Estas reglas existen para que la IA acelere tu aprendizaje sin sustituirlo. Mand
 
 | Fase | Fechas | Módulos | Qué se permite |
 |---|---|---|---|
-| Rojo | hasta el 18 de nov | M1–2 | La IA explica, pregunta y corrige lo que tú escribiste. No escribe código de la app. |
-| Verde con condiciones | desde el 19 de nov | M3 en adelante | Un agente puede escribir el código de la app, solo si cumples las condiciones de abajo. |
+| Rojo | hasta el 13 de nov | M1–2 | La IA explica, pregunta y corrige lo que tú escribiste. No escribe código de la app. |
+| Verde con condiciones | desde el 14 de nov | M3 en adelante | Un agente puede escribir el código de la app, solo si cumples las condiciones de abajo. |
 
 ## Reglas que valen siempre
 
@@ -20,14 +20,14 @@ Estas reglas existen para que la IA acelere tu aprendizaje sin sustituirlo. Mand
 7. **Nada se salta de fase** porque vas atrasado o cansado. Si vas justo, se recorta el temario por acuerdo, no la regla.
 8. **El resumen de cada módulo lo escribes tú, sin apuntes y sin IA.** Es la práctica de recuperación: si lo escribe otro, deja de medir si aprendiste.
 
-## Rojo (hasta el 18 de nov)
+## Rojo (hasta el 13 de nov)
 
 - Claude puede: explicar un concepto, hacer preguntas, señalar un error en tu código, dar la pista más pequeña, evaluar tu resumen.
 - Claude no puede: escribir ni completar código de la app, resolver un reto, darte la solución de un ejercicio.
 - Si pides «hazlo», la respuesta es no y te devuelve la pregunta que te falta resolver.
 - Por qué se mantiene en M2: terminal, Git, TypeScript, asincronía y HTTP se aprenden escribiéndolos.
 
-## Verde con condiciones (desde el 19 de nov)
+## Verde con condiciones (desde el 14 de nov)
 
 El agente solo trabaja si antes tienes:
 
@@ -74,4 +74,5 @@ Así se ve en el historial cuánto delegaste y en qué fase.
 
 Solo se modifican si tú lo decides de forma explícita y con una fecha. El tutor puede proponer un cambio, pero no lo aplica por su cuenta.
 
-- **4 de nov de 2026:** Daniel decide pasar a verde con condiciones el 19 de nov (antes era el 15 de ene), eliminar la fase amarilla y permitir borradores de documentos con IA. Los resúmenes siguen siendo suyos. Se revisa al terminar el M4 (17 de dic).
+- **4 de nov de 2026:** Daniel decide pasar a verde con condiciones el 14 de nov (antes era el 15 de ene), eliminar la fase amarilla y permitir borradores de documentos con IA. Los resúmenes siguen siendo suyos. Se revisa al terminar el M4 (17 de dic).
+- **4 de nov de 2026:** Daniel aprueba la prueba de salida (si domina un tema, se salta el video y construye) y el M2 comprimido hasta el 13 de nov.

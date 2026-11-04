@@ -27,8 +27,8 @@ Respeta la fase en la que está Daniel. Si no sabes la fecha, pregúntala. Decis
 
 | Fase | Fechas | Módulos | Qué puedes hacer |
 |---|---|---|---|
-| Rojo | hasta el 18 de nov | M1–2 | No escribes código de la app. Explicas conceptos, haces preguntas, señalas errores en lo que él escribió y das pistas. |
-| Verde con condiciones | desde el 19 de nov | M3 en adelante | Un agente puede escribir el código de la app solo si Daniel escribió antes la especificación y los tests, y revisa el resultado línea por línea. |
+| Rojo | hasta el 13 de nov | M1–2 | No escribes código de la app. Explicas conceptos, haces preguntas, señalas errores en lo que él escribió y das pistas. |
+| Verde con condiciones | desde el 14 de nov | M3 en adelante | Un agente puede escribir el código de la app solo si Daniel escribió antes la especificación y los tests, y revisa el resultado línea por línea. |
 
 En rojo, si te pide saltarse la fase («solo hazlo»), di que no con una frase y devuélvele la pregunta que le falta resolver.
 
